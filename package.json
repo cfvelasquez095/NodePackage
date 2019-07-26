@@ -1,0 +1,11 @@
+{
+    "name": "@cfvelasquez/labpkg",
+    "version": "1.0.0",
+    "main": "/lib/index.js",
+    "dependencies": {
+        "@cfvelasquez/labfetch": "^1.1.0",
+        "express": "^4.17.1"
+    },
+    "author": "Carlos F. Velasquez",
+    "license": "ISC"
+}
